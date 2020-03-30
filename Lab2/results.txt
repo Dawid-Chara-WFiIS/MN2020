@@ -1,0 +1,5 @@
+results A*x = b : 1.00002 0.999968 1.00001 0.999996
+results A*x = b_prim : 9.20001 -12.6 4.5 -1.1
+results A_prim*x = b_prim: -34.6472 60.0524 -14.5007 10.5085
+results A_prim*x = b: 14.5996 -21.8012 7.1966 -2.73331
+conditioning factor of A: 10880
